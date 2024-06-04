@@ -5,7 +5,7 @@
 IOS 서비스 스포너스
 <ul>
 ▶️ PM, 기획, TL
-<p>▶️ 🥇UMC 5th Demoday 대상</p>
+<p>▶️ 🥇대상</p>
 </ul>
 코바코(한국방송광고진흥공사) uiux 개선 업무
 <ul>
